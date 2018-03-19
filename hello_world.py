@@ -1,6 +1,8 @@
 # hello_world.py
-# 12/13/17
+################################################
+# 12/13/17 last modified 3/19/18
 
-print("Hello World!")
+name = input("What is your name?")
 
-print("Testing out the GitHub desktop app!")
+print("Hello,", name)
+print("I hope you like to learn Python?")
